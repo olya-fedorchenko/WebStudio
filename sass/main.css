@@ -1134,7 +1134,7 @@ a {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: var(---primary-text-color);
+  color: blue;
   margin-top: 0;
   margin-bottom: 4px;
 }
